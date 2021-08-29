@@ -10,3 +10,4 @@ For the parallel versions, currently:
 
 The data files are randomly generated vectors of length 32 (data.txt), 1024 (data-long.txt) and 1048576 (data-huge.txt). sax.txt and violin.txt contain samples from two short audio clips, sampled at 44.1 kHz, and are both vectors of 262944 elements.
 
+TODO: swap while loops with for loops; print to file instead of screen; finish parallelization
